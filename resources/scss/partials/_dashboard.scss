@@ -1,0 +1,21 @@
+body {
+    background-color: $bg-primary;
+}
+
+.dashboard {
+    margin-top: 100px;
+}
+
+.card-dash {
+    width: 25rem !important; 
+}
+
+.btn-green {
+    background-color: $primary-color;
+    color: white;
+    font-weight: bold;
+}
+
+.logo-login {
+    height: 40px;
+}
